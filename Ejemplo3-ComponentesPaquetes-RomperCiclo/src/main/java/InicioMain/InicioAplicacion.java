@@ -25,5 +25,6 @@ public class InicioAplicacion {
         vista1.adicionarPersona();
         vista1.adicionarPersona();        
         vista2= new ListarPersonaView(controller);
+
     }    
 }
