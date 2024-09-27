@@ -1,9 +1,135 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
-  <diagram name="Página-1" id="HCl-aaOLpzspnbZgGZc7">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="5">
+  <diagram name="Componentes" id="HCl-aaOLpzspnbZgGZc7">
+    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W08IAuDFILZW3C6-sFcc-1" value="«Filtros_Y_Tuberias»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="«BuscarPalabraEnArchivo»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,3pd3CMjm8C3dgx9Bb5TQ" id="W08IAuDFILZW3C6-sFcc-3">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="130" y="150" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="«CargarArchivoDeTexto»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,GKT5t124oOT2FCgC7MH8" id="W08IAuDFILZW3C6-sFcc-5">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="360" y="150" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="«ConvertirArchivoBase64ABinario»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,5Xm73NCzNrAsuGrceJZW" id="W08IAuDFILZW3C6-sFcc-7">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="590" y="150" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-9" value="«ConvertirArchivoBinarioABase64»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-11" value="«ConvertirArchivoBinarioATexto»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-13" value="«ConvertirArchivoTextoABinario»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-13">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-15" value="«ConvertirArchivoTextoSHA256»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W08IAuDFILZW3C6-sFcc-16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-15">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3pd3CMjm8C3dgx9Bb5TQ" name="BuscarPalabraEnArchivo">
+    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nRxKaAdVgaboDQcOBNCK-5" value="BuscarPalabraEnArchivoTexto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="310" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nRxKaAdVgaboDQcOBNCK-6" value="+ Buscar(inputFile: FileInfo, palabra: string?): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nRxKaAdVgaboDQcOBNCK-5">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GKT5t124oOT2FCgC7MH8" name="CargarArchivoDeTexto">
+    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ot3Yw_L1tm__mziLLJD-1" value="CargarArchivoDeTexto " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="250" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="0ot3Yw_L1tm__mziLLJD-2" value="+ Cargar(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0ot3Yw_L1tm__mziLLJD-1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5Xm73NCzNrAsuGrceJZW" name="ConvertirArchivoBase64ABinario">
+    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y5Ou5PIKnvKZz3uWWhhc-1" value="ConvertirArchivoBase64ABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Ou5PIKnvKZz3uWWhhc-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="y5Ou5PIKnvKZz3uWWhhc-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IWDOe-9Vouo7_u_eD-Q8" name="ConvertirArchivoBinarioABase64">
+    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I6h59Nejr04FWkLmDZeq-1" value="ConvertirArchivoBase64ABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="I6h59Nejr04FWkLmDZeq-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="I6h59Nejr04FWkLmDZeq-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
