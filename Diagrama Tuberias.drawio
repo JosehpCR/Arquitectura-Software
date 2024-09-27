@@ -1,12 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="9">
   <diagram name="Componentes" id="HCl-aaOLpzspnbZgGZc7">
-    <mxGraphModel dx="1674" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W08IAuDFILZW3C6-sFcc-1" value="«Filtros_Y_Tuberias»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="180" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="«Filtros_Y_Tuberias»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,gR3Y82C4Jww8SpxE3leP" id="W08IAuDFILZW3C6-sFcc-1">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="360" y="320" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W08IAuDFILZW3C6-sFcc-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
@@ -42,36 +44,86 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W08IAuDFILZW3C6-sFcc-9" value="«ConvertirArchivoBinarioABase64»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="200" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="«ConvertirArchivoBinarioABase64»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,IWDOe-9Vouo7_u_eD-Q8" id="W08IAuDFILZW3C6-sFcc-9">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="120" y="460" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W08IAuDFILZW3C6-sFcc-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-9">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W08IAuDFILZW3C6-sFcc-11" value="«ConvertirArchivoBinarioATexto»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="200" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="«ConvertirArchivoBinarioATexto»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,xmMJvIEUc8UvwXHl2UWF" id="W08IAuDFILZW3C6-sFcc-11">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="350" y="460" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W08IAuDFILZW3C6-sFcc-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-11">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W08IAuDFILZW3C6-sFcc-13" value="«ConvertirArchivoTextoABinario»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="460" width="200" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="«ConvertirArchivoTextoABinario»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,1zSr0auOSwar4siDjUAY" id="W08IAuDFILZW3C6-sFcc-13">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="590" y="460" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W08IAuDFILZW3C6-sFcc-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-13">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W08IAuDFILZW3C6-sFcc-15" value="«ConvertirArchivoTextoSHA256»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="320" width="200" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="«ConvertirArchivoTextoSHA256»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" link="data:page/id,-OeeMiYVqNooFoYReh8Y" id="W08IAuDFILZW3C6-sFcc-15">
+          <mxCell style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="690" y="320" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W08IAuDFILZW3C6-sFcc-16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="W08IAuDFILZW3C6-sFcc-15">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="370" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="450" as="sourcePoint" />
+            <mxPoint x="660" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="sourcePoint" />
+            <mxPoint x="500" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1niNBK4uAjmYYqHj45x-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W08IAuDFILZW3C6-sFcc-1" target="W08IAuDFILZW3C6-sFcc-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+            <mxPoint x="290" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -124,11 +176,151 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I6h59Nejr04FWkLmDZeq-1" value="ConvertirArchivoBase64ABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6h59Nejr04FWkLmDZeq-1" value="ConvertirArchivoBinarioABase64" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="260" height="52" as="geometry" />
         </mxCell>
         <mxCell id="I6h59Nejr04FWkLmDZeq-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="I6h59Nejr04FWkLmDZeq-1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xmMJvIEUc8UvwXHl2UWF" name="ConvertirArchivoBinarioATexto">
+    <mxGraphModel dx="712" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lWeNeK5WUoHzYHJqd_su-1" value="ConvertirArchivoBinarioATexto " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lWeNeK5WUoHzYHJqd_su-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="lWeNeK5WUoHzYHJqd_su-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1zSr0auOSwar4siDjUAY" name="ConvertirArchivoTextoABinario">
+    <mxGraphModel dx="712" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pccbHxr73IhRjZKdAf5w-1" value="ConvertirArchivoTextoABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pccbHxr73IhRjZKdAf5w-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pccbHxr73IhRjZKdAf5w-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-OeeMiYVqNooFoYReh8Y" name="EncriptarArchivoTextoSHA256">
+    <mxGraphModel dx="791" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mZe0pFg4HerXkvG4YeUn-1" value="EncriptarArchivoTextoSHA256 " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="mZe0pFg4HerXkvG4YeUn-2" value="+ Encriptar(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mZe0pFg4HerXkvG4YeUn-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gR3Y82C4Jww8SpxE3leP" name="Main">
+    <mxGraphModel dx="2501" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0S3Wp4WnrCdVeiBZHWLE-1" value="Program" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="0S3Wp4WnrCdVeiBZHWLE-2" value="- Main()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0S3Wp4WnrCdVeiBZHWLE-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="14knCfc6hUiTCKBQUfDx-1" value="BuscarPalabraEnArchivoTexto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="250" width="310" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="14knCfc6hUiTCKBQUfDx-2" value="+ Buscar(inputFile: FileInfo, palabra: string?): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="14knCfc6hUiTCKBQUfDx-1">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1FusoC32suH_qYxZr_1z-1" value="CargarArchivoDeTexto " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="250" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="1FusoC32suH_qYxZr_1z-2" value="+ Cargar(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1FusoC32suH_qYxZr_1z-1">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eBzV3yuTYPT5KfftUgBy-1" value="ConvertirArchivoBase64ABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="250" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="eBzV3yuTYPT5KfftUgBy-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eBzV3yuTYPT5KfftUgBy-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="opI-c8fLZ-HVtakTJ3UD-1" value="ConvertirArchivoBinarioABase64" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="480" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="opI-c8fLZ-HVtakTJ3UD-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="opI-c8fLZ-HVtakTJ3UD-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oUp49-R17Xsr51OIBKHE-1" value="ConvertirArchivoBinarioATexto " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="oUp49-R17Xsr51OIBKHE-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oUp49-R17Xsr51OIBKHE-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_voscaQuhmlkQ6j3U4nU-1" value="ConvertirArchivoTextoABinario " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_voscaQuhmlkQ6j3U4nU-2" value="+ Convertir(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_voscaQuhmlkQ6j3U4nU-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-1" value="EncriptarArchivoTextoSHA256 " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-2" value="+ Encriptar(inputFile: FileInfo): FileInfo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8cG0wQtHzXAS9WNBJ1ex-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-3" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="opI-c8fLZ-HVtakTJ3UD-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="620" as="sourcePoint" />
+            <mxPoint x="490" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-4" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="14knCfc6hUiTCKBQUfDx-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="1FusoC32suH_qYxZr_1z-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="670" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-6" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="eBzV3yuTYPT5KfftUgBy-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="350" as="sourcePoint" />
+            <mxPoint x="800" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-7" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="8cG0wQtHzXAS9WNBJ1ex-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="410" as="sourcePoint" />
+            <mxPoint x="820" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-8" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="_voscaQuhmlkQ6j3U4nU-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="460" as="sourcePoint" />
+            <mxPoint x="820" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cG0wQtHzXAS9WNBJ1ex-9" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0S3Wp4WnrCdVeiBZHWLE-1" target="oUp49-R17Xsr51OIBKHE-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="460" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
